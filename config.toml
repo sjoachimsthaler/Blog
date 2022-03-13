@@ -9,7 +9,7 @@ paginate = 5
   contentTypeName = "posts"
 
   # ["orange", "blue", "red", "green", "pink"]
-  themeColor = "orange"
+  themeColor = "green"
 
   # if you set this to 0, only submenu trigger will be visible
   showMenuItems = 2
@@ -30,7 +30,7 @@ paginate = 5
 
   # set post to show the last updated
   # If you use git, you can set `enableGitInfo` to `true` and then post will automatically get the last updated
-  showLastUpdated = false
+  showLastUpdated = true
 
   # set a custom favicon (default is a `themeColor` square)
   # favicon = "favicon.ico"
@@ -63,8 +63,8 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
-    subtitle = "A simple, retro theme for Hugo"
+    title = "Stefan Joachimsthaler"
+    subtitle = "Dad and developer"
     owner = ""
     keywords = ""
     copyright = ""
@@ -77,7 +77,7 @@ paginate = 5
     missingBackButtonLabel = "Back to home page"
 
     [languages.en.params.logo]
-      logoText = "Terminal"
+      logoText = "Stefan Joachimsthaler"
       logoHomeLink = "/"
 
     [languages.en.menu]
