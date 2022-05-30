@@ -1,6 +1,6 @@
 +++
 title = "Soap to Rest"
-draft = true
+draft = false
 date = "2022-03-22T22:50:01+01:00"
 author = "Stefan Joachimsthaler"
 authorTwitter = "" #do not include @
