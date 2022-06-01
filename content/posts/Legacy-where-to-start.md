@@ -5,11 +5,11 @@ draft = false
 author = "Stefan Joachimsthaler"
 authorTwitter = "" #do not include @
 cover = ""
-tags = ["", ""]
+tags = ["Refactoring"]
 keywords = ["legacy", "refactor", "devops", "CI/CD"]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 +++
 
 # How do you tackle the refactoring of a legacy app?

@@ -9,7 +9,7 @@ tags = ["Dotnet", "SOAP", "Rest"]
 keywords = ["", ""]
 description = ""
 showFullContent = false
-readingTime = false
+readingTime = true
 +++
 
 # How to convert an old SOAP Service to a (more) modern REST-Service
