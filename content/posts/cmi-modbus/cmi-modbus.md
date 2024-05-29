@@ -38,7 +38,7 @@ Um die Werte nun mit der CMI abfragen zu können müssen wir erstmal in das CMI 
 
 Hier können wir unter "Modbus" -> "DIGITAL" jetzt unseren Wert auslesen. 
 
-![CMI Konfiguration](</images/CMI Config.png>)
+![CMI Konfiguration](<images/CMI Config.png>)
 
 ## Konfiguration Wert bereitstellen CMI
 
