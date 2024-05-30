@@ -18,4 +18,4 @@ To adress this problem, I created a "middleware" in DotNet that is recognized by
 
 In the future I want to make it more stable and a bit more efficient. But it runs quite stable as a docker container on a proxmox server in my home lab.
 
-When you want to check it out please visit the [repository](https://github.com/sjoachimsthaler/Fronius_Api_Stub).
+If you want to check it out please visit the [repository](https://github.com/sjoachimsthaler/Fronius_Api_Stub).
